@@ -29,9 +29,9 @@ This project delivers a multi-page **Bank Loan Analysis Dashboard** in Power BI 
 ## 🖥️ Dashboard Previews
 
 ```
-![Summary Page](./summary.jpg)
-![Overview Page](./overview.jpg)
-![Details Page](./details.jpg)
+![Summary Page](./summary%20dashboard.jpg)
+![Overview Page](./Overview%20dashboard.jpg)
+![Details Page](./Details%20dashboard.jpg)
 ```
 
 ---
