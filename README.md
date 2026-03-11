@@ -4,22 +4,6 @@
 
 ---
 
-## 🗂️ Table of Contents
-
-- [Project Overview](#project-overview)
-- [Dashboard Previews](#dashboard-previews)
-- [Key KPIs & Summary Metrics](#key-kpis--summary-metrics)
-- [Loan Performance Analysis](#loan-performance-analysis)
-- [Good vs Bad Loan Breakdown](#good-vs-bad-loan-breakdown)
-- [Loan Purpose Analysis](#loan-purpose-analysis)
-- [Dashboard Features](#dashboard-features)
-- [Key Business Insights](#key-business-insights)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [How to Use](#how-to-use)
-
----
-
 ## 📌 Project Overview
 
 This project delivers a multi-page **Bank Loan Analysis Dashboard** in Power BI that gives stakeholders a complete view of the loan portfolio — from high-level KPIs down to individual loan records. The dashboard is designed to help the lending and risk teams monitor portfolio health, identify risk areas, and make informed decisions on loan approvals and interest rate strategies.
