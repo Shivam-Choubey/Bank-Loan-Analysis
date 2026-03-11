@@ -28,11 +28,14 @@ This project delivers a multi-page **Bank Loan Analysis Dashboard** in Power BI 
 
 ## 🖥️ Dashboard Previews
 
-```
+
+### Summary Dashboard
 ![Summary Page](./summary%20dashboard.jpg)
-![Overview Page](./Overview%20dashboard.jpg)
-![Details Page](./Details%20dashboard.jpg)
-```
+### Overview Dashboard
+![Overview Page](./overview%20dashboard.jpg)
+### Details Dashboard
+![Details Page](./details%20dashboard.jpg)
+
 
 ---
 
@@ -142,9 +145,12 @@ The dashboard is organized across **3 pages** with the following components:
 ```
 bank-loan-analysis/
 │
-├── Bank Loan Report.pbix       # Power BI dashboard file
-├── README.md                   # Project documentation (this file)
-└── Bank Loan Analysis.pdf      # Dashboard preview and summary
+├── Bank Loan Report.pbix       
+├── README.md                   
+├── overview dashboard.jpg
+├── summary dashboard.jpg
+├── details dashboard.jpg
+└── Bank Loan Analysis.pdf    
 ```
 
 ---
